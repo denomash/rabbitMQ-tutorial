@@ -9,6 +9,8 @@
   "author": "Dennis Macharia",
   "license": "ISC",
   "dependencies": {
-    "amqplib": "^0.10.4"
+    "amqplib": "^0.10.4",
+    "fs": "^0.0.1-security",
+    "watch": "^1.0.2"
   }
 }
