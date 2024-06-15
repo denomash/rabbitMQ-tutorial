@@ -1,0 +1,16 @@
+{
+  "name": "rabbitmq-tutorial",
+  "version": "1.0.0",
+  "description": "Rabbit MQ tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dennis Macharia",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.10.4",
+    "fs": "^0.0.1-security",
+    "watch": "^1.0.2"
+  }
+}
